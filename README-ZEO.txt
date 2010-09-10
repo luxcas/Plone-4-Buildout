@@ -1,7 +1,8 @@
 Introduction
 ============
 
-This document describes how to add ZEO to your Plone 4 buildout.
+This document describes how to add ZEO to the Plone 4 buildout described in
+README.txt
 
 Adding ZEO
 ----------
