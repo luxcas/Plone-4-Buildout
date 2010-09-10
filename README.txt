@@ -9,6 +9,7 @@ Installation
 To install::
 
     $ git clone git://github.com/aclark4life/Plone-4-Buildout.git
+    $ cd Plone-4-Buildout
     $ python2.6 bootstrap.py -d
     $ bin/buildout
     $ bin/plone fg
